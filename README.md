@@ -1,4 +1,4 @@
-# long-lines
+# Long Lines
 The Long Lines project is a simple Java class that takes an input string and a line length value, and inserts the line break character throughout the input string so that no line (the substring between line breaks) has a length greater than the specified line length value. The LongLines class has one method:
 
 ```
